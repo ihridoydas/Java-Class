@@ -7,7 +7,7 @@ public static void main(String[] args) {
   
     System.out.println("身長は"+ dnum + "センチです");
     System.out.println("int型の変換に代入します");
-    double inum = dnum;
+    int inum = (int)dnum;
     System.out.println("身長は"+ inum + "センチです");
 }
 }
