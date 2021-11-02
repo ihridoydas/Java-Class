@@ -13,7 +13,10 @@ public class L8Sample1 {
         car2.gas=22.5;
         car2.show();
 
-        
+        MainCar car3 = new MainCar();
+
+        car3.setNum(1234);
+        car3.setGas(20.5);
     }
     
 }
