@@ -12,7 +12,7 @@ class L10SampleP1 {
         String str2 = br.readLine();
 
         int num1 = Integer.parseInt(str1);
-        ;
+
         int num2 = Integer.parseInt(str2);
 
         int ans = Math.min(num1, num2);
