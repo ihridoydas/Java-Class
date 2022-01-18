@@ -4,7 +4,7 @@ public class L9P1 {
        
         CarP1 car1 = new CarP1();
         car1.setCar(1234,20.5);
-        car1.showSum();
+        CarP1.showSum();
 
     }
 
